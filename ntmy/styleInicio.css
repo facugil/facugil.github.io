@@ -13,6 +13,17 @@ body{
 	position: relative;
 }
 
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('img/logo2.png') 50% 50% no-repeat rgb(0, 0, 0);
+    opacity: 1;
+    
+}
 
 
 #logo{
@@ -69,6 +80,7 @@ body{
 
 #prenda1 #comprar, #prenda2 #comprar, #prenda3 #comprar, #prenda4 #comprar, #prenda5 #comprar, #prenda6 #comprar, #prenda7 #comprar, #prenda8 #comprar, #prenda9 #comprar, #prenda10 #comprar{
     height: 260px;
+    color: black;
 }
 
 #prenda1 #comprar button, #prenda2 #comprar button, #prenda3 #comprar button, #prenda4 #comprar button, #prenda5 #comprar button, #prenda6 #comprar button, #prenda7 #comprar button, #prenda8 #comprar button, #prenda9 #comprar button, #prenda10 #comprar button{
@@ -77,6 +89,7 @@ body{
     background-color: white;
     height: 30px;
     border-radius: 10px;
+    color:black;
 }
 
 footer{
