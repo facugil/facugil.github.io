@@ -31,7 +31,7 @@ body{
 
 #prenda1, #prenda2, #prenda3, #prenda4, #prenda5, #prenda6, #prenda7, #prenda8, #prenda9, #prenda10{
     margin-top: 30px;
-    height: 250px;
+    height: 300px;
     margin-bottom: 400px;
     
    
@@ -48,14 +48,14 @@ body{
     height: 100%;
     border: 1px solid;
     float: left;
-    width: 49%;
+    width: 48%;
     text-align: center;
     
 }
 
 #prenda1 #talle, #prenda2 #talle, #prenda3 #talle, #prenda4 #talle, #prenda5 #talle, #prenda6 #talle, #prenda7 #talle, #prenda8 #talle, #prenda9 #talle, #prenda10 #talle{
-    width: 99%;
-    height: 100%;
+    width: 96.5%;
+    height: 70%;
     border: 1px solid;
     float: left;
     text-align: center;
