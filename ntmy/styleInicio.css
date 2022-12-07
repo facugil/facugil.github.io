@@ -41,6 +41,18 @@
 width: 100%;
 }
 
+#informacion h2{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+#contacto a{
+    text-decoration: none;
+    color:#35373a ;
+}
+
 body{
    
     font-family: 'Inconsolata', monospace;
