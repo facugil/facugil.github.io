@@ -4,6 +4,43 @@
     100%{background-position: 0 50%;}
 }
 
+
+#aside{
+    height:100px;
+    width: 100%;
+   
+}
+
+#aside #primera, #aside #segunda, #aside #tercera{
+    width: 32%;
+    height: 100%;
+   
+    float: left;
+    margin-left: 4px;
+}
+
+#aside #primera img, #aside #segunda img, #aside #tercera img{
+    height: 100%;
+   
+}
+
+#galeriaImagenes{
+    margin-top: 40px;
+    height: 520px;
+}
+
+
+#pirenda1, #pirenda2, #pirenda3, #pirenda4, #pirenda5, #pirenda6, #pirenda7, #pirenda8, #pirenda9, #pirenda10{
+    width: 99.9%;
+    height: 370px;
+    
+    margin-top: 70px;
+}
+
+#pirenda1 img, #pirenda2 img, #pirenda3 img, #pirenda4 img, #pirenda5 img, #pirenda6 img, #pirenda7 img, #pirenda8 img, #pirenda9 img, #pirenda10 img{
+width: 100%;
+}
+
 body{
    
     font-family: 'Inconsolata', monospace;
@@ -90,6 +127,15 @@ body{
 }
 
 #prenda1 #comprar button, #prenda2 #comprar button, #prenda3 #comprar button, #prenda4 #comprar button, #prenda5 #comprar button, #prenda6 #comprar button, #prenda7 #comprar button, #prenda8 #comprar button, #prenda9 #comprar button, #prenda10 #comprar button{
+    margin-top: 20px;
+    width: 99%;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    color:black;
+}
+
+#comprar button{
     margin-top: 20px;
     width: 99%;
     background-color: white;
