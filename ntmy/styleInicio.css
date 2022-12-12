@@ -32,7 +32,7 @@
 
 #pirenda1, #pirenda2, #pirenda3, #pirenda4, #pirenda5, #pirenda6, #pirenda7, #pirenda8, #pirenda9, #pirenda10, #pirenda11{
     width: 99.9%;
-    height: 550px;
+    height: 750px;
     
     margin-top: 100px;
 }
@@ -40,7 +40,7 @@
 #pirenda1 img, #pirenda2 img, #pirenda3 img, #pirenda4 img, #pirenda5 img, #pirenda6 img, #pirenda7 img, #pirenda8 img, #pirenda9 img, #pirenda10 img,
 #pirenda11 img{
 width: 100%;
-margin-top: 50px;
+
 }
 
 #informacion h2{
